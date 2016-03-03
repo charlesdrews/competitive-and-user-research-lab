@@ -1,3 +1,7 @@
+## Our feature inventory analysis:
+## https://docs.google.com/spreadsheets/d/1L5BgDj1N2iyi-T1p53Qxwol0WgP5OhNdm5nhJDUdTfg/edit?usp=sharing
+
+
 ---
 title: Competitive and user research
 type: lab
